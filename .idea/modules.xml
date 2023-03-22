@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NelioAlves-Udemy.iml" filepath="$PROJECT_DIR$/.idea/NelioAlves-Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/Vetores/Vetores.iml" filepath="$PROJECT_DIR$/course/Vetores/Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/vetores2/vetores2.iml" filepath="$PROJECT_DIR$/course/vetores2/vetores2.iml" />
+    </modules>
+  </component>
+</project>
