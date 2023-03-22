@@ -28,5 +28,6 @@ public class Main {
                 System.out.println(numbers[i]);
             }
         }
+        sc.close();
     }
 }

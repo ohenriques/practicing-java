@@ -35,6 +35,6 @@ public class Main {
         sc.nextLine();
         System.out.printf("\nSOMA: %.2f%n", sum);
         System.out.printf("MEDIA: %.2f%n", average);
-
+        sc.close();
     }
 }

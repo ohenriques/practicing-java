@@ -51,6 +51,6 @@ public class Main {
         for (Person person : arrayPerson) {
             if (person.getAge() < 16) System.out.println("\n" + person.getName());
         }
-
+        sc.close();
     }
 }
